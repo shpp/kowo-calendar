@@ -1,0 +1,10 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: url('../images/geometry.png') top left repeat;
+}
+
+h1 {
+  color: #FD7979;
+  text-align: center;
+  margin: 3rem auto;
+}
